@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "cadabra",
+  "version": "0.1.0",
+  "description": "A revolt bot that fufills all your magical needs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cazdotsys",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1",
+    "revolt.js": "^7.0.0-beta.9"
+  }
+}
